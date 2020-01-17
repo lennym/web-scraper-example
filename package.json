@@ -1,0 +1,23 @@
+{
+  "name": "parkrun-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "funkie --driver chromedriver node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cli-progress": "^1.7.0",
+    "cli-table": "^0.3.1",
+    "funkie": "0.0.6",
+    "funkie-chromedriver": "0.0.1",
+    "lodash": "^4.17.10",
+    "lodash.uniq": "^4.5.0",
+    "minimist": "^1.2.0",
+    "terminal-overwrite": "^2.0.1",
+    "webdriverio": "^4.10.2"
+  }
+}
