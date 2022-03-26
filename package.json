@@ -16,7 +16,7 @@
     "funkie-chromedriver": "0.0.1",
     "lodash": "^4.17.10",
     "lodash.uniq": "^4.5.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "terminal-overwrite": "^2.0.1",
     "webdriverio": "^4.10.2"
   }
